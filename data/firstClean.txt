@@ -1,0 +1,106 @@
+2                    South Africa                        Chinese South Africans                     350,000           
+3                         Angola                      Chinese people in Angola                     259,000           
+4                     Madagascar                  Chinese people in Madagascar              70,000-100,000           
+5                      Mauritius                                Sino-Mauritian                      38,500           
+6                        Algeria                     Chinese people in Algeria                      35,000           
+7                        Réunion                                       Chinois                      25,000           
+8              Republic of Congo       Chinese people in the Republic of Congo               15,000-25,000           
+9                        Nigeria                     Chinese people in Nigeria                      20,000           
+10                        Zambia                      Chinese people in Zambia                      19,845           
+11                         Ghana                       Chinese people in Ghana                6,000–20,000           
+12                    Mozambique                  Ethnic Chinese in Mozambique                      12,000           
+13                      Tanzania                    Chinese people in Tanzania                      30,000           
+14                         Egypt                       Chinese people in Egypt                6,000–10,000           
+15                      Zimbabwe                    Chinese people in Zimbabwe                5,300-10,000           
+16                         Sudan                   Chinese people in the Sudan                5,000-10,000           
+17                         Kenya                       Chinese people in Kenya                       7,000           
+18                        Uganda                      Chinese people in Uganda                       7,000           
+19                      Botswana                    Chinese people in Botswana                 5,000-6,000           
+20                       Lesotho                     Chinese people in Lesotho                       5,000           
+21  Democratic Republic of Congo                     Chinese people in the DRC                 4,000-5,000           
+22                      Cameroon                    Chinese people in Cameroon                 3,000-5,000           
+23                        Guinea                      Chinese people in Guinea                       5,000           
+24                         Benin                       Chinese people in Benin                       4,000           
+25                      Ethiopia                    Chinese people in Ethiopia                 3,000–4,000           
+26                       Namibia                     Chinese people in Namibia                 3,000–4,000           
+27                   Ivory Coast                 Chinese people in Ivory Coast                       3,000           
+28                          Mali                        Chinese people in Mali                       3,000           
+29                          Togo                        Chinese people in Togo                       3,000           
+30                    Cape Verde                  Chinese people in Cape Verde                       2,300           
+31                        Malawi                      Chinese people in Malawi                       2,000           
+32                       Senegal                     Chinese people in Senegal                       1,500           
+33                       Morocco                     Chinese people in Morocco                       1,200           
+34                    Seychelles                              Sino-Seychellois                       1,000           
+35                       Liberia                     Chinese people in Liberia                         600           
+36                  Burkina Faso                Chinese people in Burkina Faso                         500           
+39                      Thailand                                  Thai Chinese                   9,392,792  
+40                      Malaysia                  Malaysian Chinese, Peranakan                   6,960,900  
+41                     Indonesia                            Chinese Indonesian                   2,832,510  
+42                     Singapore                           Chinese Singaporean                   2,808,300  
+43                       Myanmar                      Burmese Chinese, Panthay                   1,637,540           
+44                   Philippines          Chinese Filipino, Tornatras, Sangley                   1,146,250  
+45                       Vietnam                            Hoa, Ngái, San Diu                     970,927  
+46                   South Korea                        Chinese in South Korea                     800,000  
+47                      Cambodia          Chinese Cambodian, Cambodian Hokkien                     700,000           
+48                         Japan                              Chinese in Japan                     674,871  
+49                    Kazakhstan                         Chinese in Kazakhstan                     300,000           
+50                          Laos                               Laotian Chinese                     185,765           
+51          United Arab Emirates    Chinese people in the United Arab Emirates                     180,000           
+52                        Brunei                      Ethnic Chinese in Brunei                      43,000           
+53                        Israel                      Chinese people in Israel                      23,000           
+54                   North Korea                        Chinese in North Korea                      10,000           
+55                      Pakistan                    Chinese people in Pakistan                      10,000           
+56                         Qatar                                                                     6,000           
+57                         India                              Chinese in India                       4,000  
+58                     Sri Lanka                   Chinese people in Sri Lanka                       3,500           
+59                          Iran                        Chinese people in Iran                       3,000           
+60                    Kyrgyzstan                  Chinese people in Kyrgyzstan                       1,813           
+61                      Mongolia                    Ethnic Chinese in Mongolia                       1,323           
+64                        Russia       Chinese people in Russia, Dungan people             200,000–400,000           
+65                        France Chinese diaspora in France, Chinois (Réunion)                     700,000       
+66                United Kingdom                               British Chinese                     433,150       
+67                         Italy                       Chinese people in Italy                     320,794     
+68                         Spain                       Chinese people in Spain                     145,000     
+69                   Netherlands             Chinese people in the Netherlands                      80,198     
+70                       Germany                     Chinese people in Germany                      56,000     
+71                       Hungary                                            --               30,000-40,000           
+72                        Sweden                                            --                      30,652           
+73                       Austria                                            --                      30,000           
+74                       Ireland                                            --                      17,800     
+75                        Norway                                            --                      10,600     
+76                       Denmark                     Chinese people in Denmark                      10,247     
+77                      Bulgaria                    Chinese people in Bulgaria                       9,000           
+78                      Portugal                    Chinese people in Portugal                       9,689           
+79                       Finland                                            --                       8,257     
+80                Czech Republic          Chinese people in the Czech Republic                       4,986           
+81                       Romania                            Chinese of Romania                       2,249           
+82                        Serbia                      Chinese people in Serbia                       1,373           
+83                        Turkey                      Chinese people in Turkey                       1,000           
+84                       Iceland                                            --                         220       
+87                 United States       Chinese American, American-born Chinese                   3,800,000       
+88                        Canada       Chinese Canadian, Canadian-born Chinese                   1,487,580        
+89                          Peru                              Chinese-Peruvian                   1,300,000           
+90                     Venezuela                            Chinese Venezuelan             400,000-450,000      
+91                        Brazil                             Chinese Brazilian                     250,000 
+92                        Panama                            Chinese-Panamanian                     135,000           
+93                     Argentina                             Chinese Argentine                     120,000           
+94                          Cuba                                 Chinese Cuban                     114,240           
+95                       Jamaica                              Chinese Jamaican                      72,000           
+96                        Mexico                               Chinese Mexican                      70,000  
+97                    Costa Rica                           Chinese-Costa Rican                      45,000           
+98                      Suriname                            Chinese-Surinamese                      40,000      
+99            Dominican Republic      Ethnic Chinese in the Dominican Republic                      15,000           
+100                    Nicaragua                            Chinese Nicaraguan                      12,000           
+101                        Chile                       Chinese people in Chile                      10,000           
+102            Trinidad & Tobago            Chinese Trinidadian and Tobagonian                       3,800           
+103                       Guyana                              Chinese Guyanese                       2,722           
+104                       Belize                      Ethnic Chinese in Belize                       1,716           
+105                  Puerto Rico                          Chinese-Puerto Rican                      35,000           
+106                        Haiti                               Chinese Haitian                         230           
+109                    Australia                            Chinese Australian                     866,200      
+110                  New Zealand                         Chinese New Zealander                     180,066      
+111                         Fiji                               Chinese in Fiji                      34,712           
+112                        Samoa                              Chinese in Samoa                      30,000           
+113             Papua New Guinea            Chinese people in Papua New Guinea                      20,000           
+114                        Tonga                              Chinese in Tonga                       3,000           
+115                        Palau                              Chinese in Palau                       1,030           
